@@ -1,0 +1,17 @@
+# 📰 Equity Research News Tool  
+
+This project is a **news research tool** that fetches **real-time news articles** using **NewsAPI** and summarizes them using **Groq LLM** via LangChain.  
+
+## 🚀 Features  
+✅ Fetches **real-time news** from NewsAPI  
+✅ Summarizes news using **Groq LLM (Llama3-8B-8192)**  
+✅ **Interactive UI** built with Streamlit  
+
+---
+
+## 🛠️ Setup Instructions  
+
+### 1️⃣ **Install Required Libraries**  
+Run the following command:  
+```bash
+pip install langchain langchain-groq groq streamlit newsapi-python
